@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-2HOcUlSRD9kS2w03+6aYKaW3TpjP3o4+4+hX9+LsfkzVvlyksl2S0w1kJQO3IWTa" crossorigin="anonymous">
+</head>
+
 # Hello, I'm Mohit! 👋
 
 I'm a frontend developer with 3 years of experience, currently working with ReactJS. I'm passionate about creating beautiful, responsive, and user-friendly web applications. I'm also currently learning NodeJS to expand my skillset. Welcome to my GitHub profile! 🚀
@@ -13,7 +17,7 @@ I'm a frontend developer with 3 years of experience, currently working with Reac
 ## Let's connect
 
 <p align="left">
-  <a href="https://twitter.com/mohitdevelops" target="_blank">
-   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmohitdevelops">
+   <a href="https://twitter.com/mohitdevelops" target="_blank" style={color: 'red'}>
+   <i class="fab fa-twitter"></i>
   </a>
 </p>
