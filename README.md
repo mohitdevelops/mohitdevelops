@@ -14,7 +14,7 @@ I'm a frontend developer with 3 years of experience, currently working with Reac
 
 
 
-## Let's connect
+
 
 <p align="left">
    <a href="https://twitter.com/mohitdevelops" target="_blank" style={color: 'red'}>
