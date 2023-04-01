@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-2HOcUlSRD9kS2w03+6aYKaW3TpjP3o4+4+hX9+LsfkzVvlyksl2S0w1kJQO3IWTa" crossorigin="anonymous">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css" integrity="sha512-3M00D/rn8n+2ZVXBO9Hib0GKNpkm8MSUU/e2VNthDyBYxKWG+BftNYYcuEjXlyrSO637tidzMBXfE7sQm0INUg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 # Hello, I'm Mohit! 👋
