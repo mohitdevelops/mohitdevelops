@@ -4,7 +4,7 @@
 
 # Hello, I'm Mohit! 👋
 
-I'm a frontend developer with 3 years of experience, currently working with ReactJS. I'm passionate about creating beautiful, responsive, and user-friendly web applications. I'm also currently learning NodeJS to expand my skillset. Welcome to my GitHub profile! 🚀
+I'm a frontend developer with over 5 years of experience, currently working with ReactJS. I'm passionate about creating beautiful, responsive, and user-friendly web applications. I'm also currently learning NodeJS to expand my skillset. Welcome to my GitHub profile! 🚀
 <br /><br />
 
 - I'm working with softwares build with ReactJS & Node
