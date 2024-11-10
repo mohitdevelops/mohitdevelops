@@ -8,7 +8,6 @@ I'm a frontend developer with over 5 years of experience, currently working with
 <br /><br />
 
 - I'm working with softwares build with ReactJS & Node
-- And currently Im learning React Native
 - I really love creating interactive UIs
 - Also I have little bit of interest in the field of sketch and stuffs
 
