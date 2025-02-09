@@ -11,6 +11,10 @@ I'm a frontend developer with over 5 years of experience, currently working with
 - I really love creating interactive UIs
 - Also I have little bit of interest in the field of sketch and stuffs
 
+I also create digital products and own a shop, you can check out my products and support on 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21A3GUD)
+
 
 
 
